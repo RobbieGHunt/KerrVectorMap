@@ -1,4 +1,4 @@
-# Kerr-Microscopy-Vector-Map
+# Kerr Vector Map
 Kerr Microscope Vector Mapping
 
 This code is intended for use with Evico made Kerr microscopes.
